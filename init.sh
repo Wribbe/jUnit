@@ -2,5 +2,5 @@
 
 mvn -B archetype:generate \
   -DarchetypeGroupId=org.apache.maven.archetypes \
-  -DgroupId=se.lth.app \
+  -DgroupId=se.stefaneng.calculator\
   -DartifactId=Junit-tests
